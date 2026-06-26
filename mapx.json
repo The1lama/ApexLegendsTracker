@@ -1,0 +1,139 @@
+{
+    "battle_royale":{
+       "current":{
+          "start":1664541000,
+          "end":1664546400,
+          "readableDate_start":"2022-09-30 12:30:00",
+          "readableDate_end":"2022-09-30 14:00:00",
+          "map":"Storm Point",
+          "code":"storm_point_rotation",
+          "DurationInSecs":5400,
+          "DurationInMinutes":90,
+          "asset":"https://apexlegendsstatus.com/assets/maps/Storm_Point.png",
+          "remainingSecs":5269,
+          "remainingMins":88,
+          "remainingTimer":"01:27:49"
+       },
+       "next":{
+          "start":1664546400,
+          "end":1664551800,
+          "readableDate_start":"2022-09-30 14:00:00",
+          "readableDate_end":"2022-09-30 15:30:00",
+          "map":"World's Edge",
+          "code":"worlds_edge_rotation",
+          "DurationInSecs":5400,
+          "DurationInMinutes":90,
+          "asset":"https://apexlegendsstatus.com/assets/maps/Worlds_Edge.png"
+       }
+    },
+    "arenas":{
+       "current":{
+          "start":1664541000,
+          "end":1664541900,
+          "readableDate_start":"2022-09-30 12:30:00",
+          "readableDate_end":"2022-09-30 12:45:00",
+          "map":"Phase runner",
+          "code":"arenas_phase_runner",
+          "DurationInSecs":900,
+          "DurationInMinutes":15,
+          "asset":"https://apexlegendsstatus.com/assets/maps/Arena_Phase_Runner.png",
+          "remainingSecs":769,
+          "remainingMins":13,
+          "remainingTimer":"00:12:49"
+       },
+       "next":{
+          "start":1664541900,
+          "end":1664542800,
+          "readableDate_start":"2022-09-30 12:45:00",
+          "readableDate_end":"2022-09-30 13:00:00",
+          "map":"Drop Off",
+          "code":"arenas_composite",
+          "DurationInSecs":900,
+          "DurationInMinutes":15,
+          "asset":"https://apexlegendsstatus.com/assets/maps/Arenas_Dropoff.png"
+       }
+    },
+    "ranked":{
+       "current":{
+          "start":1664298000,
+          "end":1667412000,
+          "readableDate_start":"2022-09-27 17:00:00",
+          "readableDate_end":"2022-11-02 18:00:00",
+          "map":"Storm Point",
+          "code":"storm_point_rotation",
+          "DurationInSecs":3114000,
+          "DurationInMinutes":51900,
+          "asset":"https://apexlegendsstatus.com/assets/maps/Storm_Point.png",
+          "remainingSecs":2870869,
+          "remainingMins":47848,
+          "remainingTimer":"797:27:49"
+       },
+       "next":{
+          "start":1667412001,
+          "end":1667412000,
+          "readableDate_start":"2022-11-02 18:00:01",
+          "readableDate_end":"2022-11-02 18:00:00",
+          "map":"Unknown",
+          "code":"Unknown",
+          "DurationInSecs":-1,
+          "DurationInMinutes":-0.016666666666666666,
+          "asset":"https://apexlegendsstatus.com/assets/maps/No_Map_Data.png"
+       }
+    },
+    "arenasRanked":{
+       "current":{
+          "start":1664540400,
+          "end":1664542800,
+          "readableDate_start":"2022-09-30 12:20:00",
+          "readableDate_end":"2022-09-30 13:00:00",
+          "map":"Drop Off",
+          "code":"arenas_composite",
+          "DurationInSecs":2400,
+          "DurationInMinutes":40,
+          "asset":"https://apexlegendsstatus.com/assets/maps/Arenas_Dropoff.png",
+          "remainingSecs":1669,
+          "remainingMins":28,
+          "remainingTimer":"00:27:49"
+       },
+       "next":{
+          "start":1664542800,
+          "end":1664545200,
+          "readableDate_start":"2022-09-30 13:00:00",
+          "readableDate_end":"2022-09-30 13:40:00",
+          "map":"Encore",
+          "code":"arenas_encore",
+          "DurationInSecs":2400,
+          "DurationInMinutes":40,
+          "asset":"https://apexlegendsstatus.com/assets/maps/Arena_Encore.png"
+       }
+    },
+    "ltm":{
+       "current":{
+          "start":1664541000,
+          "end":1664541600,
+          "readableDate_start":"2022-09-30 12:30:00",
+          "readableDate_end":"2022-09-30 12:40:00",
+          "map":"Fragment East",
+          "code":"fragment",
+          "DurationInSecs":600,
+          "DurationInMinutes":10,
+          "eventName":"Gun Run",
+          "isActive":true,
+          "asset":"https://apexlegendsstatus.com/assets/maps/Worlds_Edge.png",
+          "remainingSecs":469,
+          "remainingMins":8,
+          "remainingTimer":"00:07:49"
+       },
+       "next":{
+          "start":1664541600,
+          "end":1664542200,
+          "readableDate_start":"2022-09-30 12:40:00",
+          "readableDate_end":"2022-09-30 12:50:00",
+          "map":"Skull Town",
+          "code":"skulltown",
+          "DurationInSecs":600,
+          "DurationInMinutes":10,
+          "asset":"https://apexlegendsstatus.com/assets/maps/Kings_Canyon.png"
+       }
+    }
+ }
